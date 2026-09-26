@@ -1,2 +1,2 @@
-# Scam-Shield
-AI Powered Prepayment Scam Detection Platform for safe payment and detection
+# PayShield
+Context-Aware Payment Fraud Intelligence
